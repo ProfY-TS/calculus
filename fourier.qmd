@@ -1,0 +1,28 @@
+---
+title: "The Fourier Series Revolution"
+---
+
+# Fourier Series
+
+Fourier proposed that any reasonable function can be written as:
+
+$$
+f(x) = \sum_{n=-\infty}^{\infty} c_n e^{inx}.
+$$
+
+At the time, this was controversial.
+
+## A key insight
+
+Even discontinuous functions can be represented using smooth waves.
+
+## Visualization
+
+![](images/fourier.png)
+
+## What went wrong?
+
+Early mathematicians did not fully understand convergence:
+- pointwise convergence
+- uniform convergence
+- divergence phenomena
